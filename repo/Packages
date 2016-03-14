@@ -5,10 +5,10 @@ Maintainer: cabralcole
 Installed-Size: 984
 Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 9.0)
 Filename: .///debs/com.cabralcole.invertcolorsflipswitch_1.0-1_iphoneos-arm.deb
-Size: 759342
-MD5sum: 5741f263f35f7a15142e1c96d70967b5
-SHA1: 1dbeaca73db51152d4f4473800b3d8e75ee667c2
-SHA256: c7f72d10b198cddff967dae6b7a99dcbacc35b3036d15ccba58277fa2490fb80
+Size: 759358
+MD5sum: 9847d3cc88526f904096f7b392b45be9
+SHA1: 7708abf8d2efb64538fe0e365e817b78db8bb096
+SHA256: 5e7887f28cff52fc84b4edfb8f49422e0c2415c8a817aff670677ed67fd01397
 Section: Addons (Flipswitch)
 Description: Toggle for inverted colors mode.
 Author: cabralcole
