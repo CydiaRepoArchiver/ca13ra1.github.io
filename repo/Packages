@@ -9,7 +9,7 @@ Size: 759342
 MD5sum: 5741f263f35f7a15142e1c96d70967b5
 SHA1: 1dbeaca73db51152d4f4473800b3d8e75ee667c2
 SHA256: c7f72d10b198cddff967dae6b7a99dcbacc35b3036d15ccba58277fa2490fb80
-Section: Tweaks
+Section: Addons (Flipswitch)
 Description: Toggle for inverted colors mode.
 Author: cabralcole
 Name: InvertColors Flipswitch
