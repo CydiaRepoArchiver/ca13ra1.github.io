@@ -14,3 +14,19 @@ Description: Toggle for inverted colors mode.
 Author: cabralcole
 Name: InvertColors Flipswitch
 
+Package: com.cabralcole.invertrespring
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: cabralcole
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: .///debs/com.cabralcole.invertrespring_0.0.1-1_iphoneos-arm.deb
+Size: 3570
+MD5sum: 2a75483a331bb9b5c2033714bc4b4f7c
+SHA1: 97923e80eb0090d4b326819e4879724958deb588
+SHA256: 7f222c5a8fb230f2c367e8820d285a30770879ac4933448006f8ecb7731a3cf0
+Section: Tweaks
+Description: Invert respring and boot logo.
+Author: cabralcole
+Name: InvertRespring
+
