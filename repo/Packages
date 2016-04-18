@@ -30,3 +30,19 @@ Description: Invert respring and boot logo.
 Author: cabralcole
 Name: InvertRespring
 
+Package: com.cabralcole.medusa
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: cabralcole
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: .///debs/com.cabralcole.medusa_0.0.1-1_iphoneos-arm.deb
+Size: 3960
+MD5sum: 9e509e516c93d3fd70a870a03207333f
+SHA1: fe7bea14ef6f18a36c504b979631921c6150001f
+SHA256: 1329b24b6fa9cead62695531d693cb5b3b1ae8b9c11d221c9b1adbf8e4eb00da
+Section: Tweaks
+Description: Medusa for unsupported idevices.
+Author: cabralcole
+Name: Medusa
+
