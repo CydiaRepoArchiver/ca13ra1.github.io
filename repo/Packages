@@ -31,16 +31,16 @@ Author: cabralcole
 Name: InvertRespring
 
 Package: com.cabralcole.medusa
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: cabralcole
 Installed-Size: 136
-Depends: mobilesubstrate
-Filename: .///debs/com.cabralcole.medusa_0.0.1-1_iphoneos-arm.deb
-Size: 3960
-MD5sum: 9e509e516c93d3fd70a870a03207333f
-SHA1: fe7bea14ef6f18a36c504b979631921c6150001f
-SHA256: 1329b24b6fa9cead62695531d693cb5b3b1ae8b9c11d221c9b1adbf8e4eb00da
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: .///debs/com.cabralcole.medusa_0.0.1-2_iphoneos-arm.deb
+Size: 3972
+MD5sum: f6e7f646d814dd87a62a39fff98fa1e6
+SHA1: b4db02827d48ed154369760d944b91a76ce195ba
+SHA256: 2b107eb8450fba9d5095e3cd55a33c7724b56e5ecb51d2a1855796b7a0ca9dbd
 Section: Tweaks
 Description: Medusa for unsupported idevices.
 Author: cabralcole
