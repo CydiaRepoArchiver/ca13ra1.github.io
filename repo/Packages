@@ -48,18 +48,19 @@ Author: cabralcole
 Name: Medusa
 
 Package: com.cabralcole.shakeplay
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: cabralcole
 Installed-Size: 144
 Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
-Filename: .///debs/com.cabralcole.shakeplay_0.0.1-1_iphoneos-arm.deb
-Size: 9604
-MD5sum: 28fd68dc57b324f881b111c79fd20f7f
-SHA1: 5cdf33a60397faad7b2b0c957f7758c5192f2f68
-SHA256: 62febdb2c1fe9cdedd3269204d0bcbe25e36e6041b52558a62b08c0180873ae8
+Filename: .///debs/com.cabralcole.shakeplay_0.0.1-2_iphoneos-arm.deb
+Size: 9636
+MD5sum: d07fb2fa5da70b63d3463bc4989dc4dc
+SHA1: 436da1c28c67c79ed38cdd696fd35dfaa75c3edc
+SHA256: 16e570b4c87b58d13981dd4b8aeccd6a764e8bb52ad5fc25a692b2ac18d81f6b
 Section: Tweaks
 Description: Shake to toggle playback.
 Author: cabralcole
+Icon: file:///Library/Activator/Listeners/com.cabralcole.shakeplay/Icon-small@2x.png
 Name: ShakePlay
 
