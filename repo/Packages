@@ -47,3 +47,19 @@ Description: Medusa for unsupported idevices.
 Author: cabralcole
 Name: Medusa
 
+Package: com.cabralcole.shakeplay
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: cabralcole
+Installed-Size: 144
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: .///debs/com.cabralcole.shakeplay_0.0.1-1_iphoneos-arm.deb
+Size: 9604
+MD5sum: 28fd68dc57b324f881b111c79fd20f7f
+SHA1: 5cdf33a60397faad7b2b0c957f7758c5192f2f68
+SHA256: 62febdb2c1fe9cdedd3269204d0bcbe25e36e6041b52558a62b08c0180873ae8
+Section: Tweaks
+Description: Shake to toggle playback.
+Author: cabralcole
+Name: ShakePlay
+
