@@ -47,6 +47,23 @@ Description: Medusa for unsupported idevices.
 Author: cabralcole
 Name: Medusa
 
+Package: com.cabralcole.reachabilityactivator
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: cabralcole
+Installed-Size: 144
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: .///debs/com.cabralcole.reachabilityactivator_1.0-1_iphoneos-arm.deb
+Size: 8454
+MD5sum: f5b3a5f8adb6c9d065b682901db124be
+SHA1: 3084011ff54a1d1382baea3d73bab923085c2bdb
+SHA256: fd467838c7022d806189a251d21c2f5cd7582dca6fbe49074f61e7afaaf8e1ec
+Section: Addons (Activator)
+Description: Invoke reachability with activator.
+Author: cabralcole
+Icon: file:///Library/Activator/Listeners/com.cabralcole.reachabilityactivator/Icon-small@2x.png
+Name: ReachabilityActivator
+
 Package: com.cabralcole.shakeplay
 Version: 0.0.1-2
 Architecture: iphoneos-arm
