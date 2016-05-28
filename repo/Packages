@@ -65,18 +65,18 @@ Icon: file:///Library/Activator/Listeners/com.cabralcole.shakeplay/Icon-small@2x
 Name: ShakePlay
 
 Package: com.cabralcole.tapclockrespring
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: cabralcole
 Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: .///debs/com.cabralcole.tapclockrespring_1.0-1_iphoneos-arm.deb
-Size: 3890
-MD5sum: e63174d7ea65766366c7cdc09d263a20
-SHA1: b30a60c435527688c186fa7aefa87ba68e2e957d
-SHA256: 68f49a26c5a9b55bd7a4c56675a264ec42113a33212e5cb991d56a45106a0976
+Filename: .///debs/com.cabralcole.tapclockrespring_1.0-2_iphoneos-arm.deb
+Size: 3876
+MD5sum: 42e7f187a2975dac906cc78c026ae35d
+SHA1: 5e34c46ef809deded4934767fd85187961267c83
+SHA256: 7b53604890fcdf9e59172a140084e3955b9e8233f2eb3757b0a5f91322c4fdf4
 Section: Tweaks
-Description: Double tap lockscreen clock to respring.
+Description: Tap lockscreen clock to respring.
 Author: cabralcole
 Name: TapClockRespring
 
