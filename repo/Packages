@@ -14,22 +14,6 @@ Description: Toggle for inverted colors mode.
 Author: cabralcole
 Name: InvertColors Flipswitch
 
-Package: com.cabralcole.invertrespring
-Version: 0.0.1-2
-Architecture: iphoneos-arm
-Maintainer: cabralcole
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 7.0)
-Filename: .///debs/com.cabralcole.invertrespring_0.0.1-2_iphoneos-arm.deb
-Size: 3556
-MD5sum: e9534bb9c783fceda9090ae465d2999d
-SHA1: 71aee200bf4ba81353351395e7b0ffaf9d4173bc
-SHA256: f631f3cb62106923b421de4e646f927b08cf7208fd7a65df4b6a4729b6bc3a4d
-Section: Tweaks
-Description: Invert respring and boot logo.
-Author: cabralcole
-Name: InvertRespring
-
 Package: com.cabralcole.reachabilityactivator
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -63,20 +47,4 @@ Description: Shake to toggle playback.
 Author: cabralcole
 Icon: file:///Library/Activator/Listeners/com.cabralcole.shakeplay/Icon-small@2x.png
 Name: ShakePlay
-
-Package: com.cabralcole.tapclockrespring
-Version: 1.0-3
-Architecture: iphoneos-arm
-Maintainer: cabralcole
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: .///debs/com.cabralcole.tapclockrespring_1.0-3_iphoneos-arm.deb
-Size: 3888
-MD5sum: 855740bec9c3baafc1f9e7951c79c3bd
-SHA1: 98911770080367c42791215add0b5842eee5108b
-SHA256: 58b683ae1752f2abcc4e62bc8bf19ccb3cc8364e8d0406b487a8d7ef8b9f7769
-Section: Tweaks
-Description: Double tap lockscreen clock to respring.
-Author: cabralcole
-Name: TapClockRespring
 
