@@ -14,6 +14,22 @@ Description: Toggle for inverted colors mode.
 Author: cabralcole
 Name: InvertColors Flipswitch
 
+Package: com.cabralcole.powerofffade
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: cabralcole
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 7.0)
+Filename: .///debs/com.cabralcole.powerofffade_1.0-1_iphoneos-arm.deb
+Size: 3958
+MD5sum: 5b6198ad6a5866677eae994680796453
+SHA1: 4e967456183b423d6b37ba65786d935ae8d17af6
+SHA256: dc00fef82aeeacd53cbd6b90eea0b93b2ddf862ade2aa26f0c8003d3435a83b7
+Section: Tweaks
+Description: Fade in slide to power off.
+Author: cabralcole
+Name: PowerOffFade
+
 Package: com.cabralcole.reachabilityactivator
 Version: 1.0-1
 Architecture: iphoneos-arm
