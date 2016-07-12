@@ -1,14 +1,14 @@
 Package: com.cabralcole.animationoverrides
-Version: 1.0-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Maintainer: cabralcole
-Installed-Size: 304
+Installed-Size: 704
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), ws.hbang.common (>= 1.2)
-Filename: .///debs/com.cabralcole.animationoverrides_1.0-1_iphoneos-arm.deb
-Size: 29598
-MD5sum: b17aedeaaeccdccfd5edb1fa8d0aa52f
-SHA1: 1021a93db32249e408dae93b0d19bc63ce442dc1
-SHA256: 3d8e669d5abfc4a49dc692dddbdf077dab6bfce9f04931ced24a1245a76a2f33
+Filename: .///debs/com.cabralcole.animationoverrides_1.0-2_iphoneos-arm.deb
+Size: 31418
+MD5sum: b8e7561d80cb6e2c8839280a748d591c
+SHA1: 96612d83aee61d88313c850fcd433fdad7d1d3c0
+SHA256: a8956f0a70bb3a2f5c05e33bd2990df21b98a4beb43dd8dd6db373171e9c144d
 Section: Tweaks
 Description: SpringBoard animation speeds.
 Author: cabralcole
