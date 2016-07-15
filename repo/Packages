@@ -47,6 +47,23 @@ Description: Fade in slide to power off.
 Author: cabralcole
 Name: PowerOffFade
 
+Package: com.cabralcole.proximitylock
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: cabralcole
+Installed-Size: 308
+Depends: mobilesubstrate, firmware (>= 9.0), gsc.proximity-sensor
+Filename: .///debs/com.cabralcole.proximitylock_1.0-1_iphoneos-arm.deb
+Size: 36140
+MD5sum: 3d3859ab146d8e9c6d45f06b476a392f
+SHA1: 0e4eb6dc6e498c63fb957407755222eb1c91e20f
+SHA256: 4567cab800bb6e4531e64a78ea9609ff9f677c4e138d4cac319b752ad850c647
+Section: Tweaks
+Description: Lock device using proximity sensor.
+Author: cabralcole
+Icon: file:///Library/PreferenceBundles/PLSettings.bundle/ProximityLock@2x.png
+Name: ProximityLock
+
 Package: com.cabralcole.reachabilityactivator
 Version: 1.0-1
 Architecture: iphoneos-arm
