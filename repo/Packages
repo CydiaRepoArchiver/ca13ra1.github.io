@@ -5,13 +5,13 @@ Maintainer: cole cabral
 Installed-Size: 292
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 9.0)
 Filename: ./debs/com.cabralcole.hapticapp_0.0.1_iphoneos-arm.deb
-Size: 15974
-MD5sum: 5e050dab29fb1c4690d213275d6c019f
-SHA1: de525ca54c76a9c25267b9002c190efa68c0b61e
-SHA256: f769fa63dfb70337418135cfefbc8db9aba243c4faa97c1c3c54e0b2b7d543d4
+Size: 15984
+MD5sum: 601cd4317ecac86fdb719c999650b0b5
+SHA1: 870f7f5aaf57782d58e804fd06d656f04f407b6c
+SHA256: 2b7c5f7f0a7571d9ef28aff5f20e266ae53959038fe128657712bf576016762b
 Section: Tweaks
 Description: Haptic feedback for app launch.
 Author: cole cabral
-Depiction: https://cydia.ccabral.us/repo/hapticapp/index.html
+Depiction: http://ca13ra1.github.io/repo/hapticapp/index.html
 Name: HapticApp
 
