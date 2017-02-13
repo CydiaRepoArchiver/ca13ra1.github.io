@@ -6,32 +6,18 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 (function(document) {
 	"use strict";
 
+	function toNum(bits) {
+		return (10000 * parseInt(bits[0])) + parseInt((100 * (bits[1] ? bits[1] : 0))) + parseInt(bits[2] ? bits[2] : 0);
+	}
+
 	function parseVersionString(version) {
 		var bits = version.split(".");
-		return [ bits[0], bits[1] ? bits[1] : 0, bits[2] ? bits[2] : 0 ];
+		return toNum(bits);
 	}
 
 	function compareVersions(one, two) {
-		// https://gist.github.com/TheDistantSea/8021359
-		for (var i = 0; i < one.length; ++i) {
-			if (two.length == i) {
-				return 1;
-			}
-
-			if (one[i] == two[i]) {
-				continue;
-			} else if (one[i] > two[i]) {
-				return 1;
-			} else {
-				return -1;
-			}
-		}
-
-		if (one.length != two.length) {
-			return -1;
-		}
-
-		return 0;
+		var two_ = toNum(two);
+		return one != two_ ? (one > two_ ? 1 : -1) : 0;
 	}
 
 	var prerequisite = document.querySelector(".prerequisite"),
@@ -44,6 +30,7 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 	var osVersion = [ version[2], version[3], version[4] ? version[5] : 0 ],
 
 		osString = osVersion[0] + "." + osVersion[1] + (osVersion[2] && osVersion[2] != 0 ? "." + osVersion[2] : ""),
+
 		minString = prerequisite.dataset.minIos,
 		maxString = prerequisite.dataset.maxIos,
 
@@ -66,7 +53,6 @@ const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s";
 		isBad = true;
 	}
 
-//	prerequisite.querySelector("p").textContent = message;
     prerequisite.querySelector("p").innerHTML = message;
 
 	if (isBad) {
