@@ -1,0 +1,17 @@
+Package: com.cabralcole.accesswithinapps
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 288
+Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.accesswithinapps_0.0.1_iphoneos-arm.deb
+Size: 12504
+MD5sum: 98741c86af210086e4e1710cb005f309
+SHA1: 654ebf219c0c0179838e2c3e63c4876122710a2d
+SHA256: bd72ae162c34eb6b70cdd9526e5cc3a847b0bb58c4beef83d3907673f0cb9b2c
+Section: Tweaks
+Description: Allow access to Control Center within apps.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/accesswithinapps/index.html
+Name: AccessWithinApps
+
