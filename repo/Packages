@@ -5,10 +5,10 @@ Maintainer: cole cabral
 Installed-Size: 288
 Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 9.0)
 Filename: ./debs/com.cabralcole.accesswithinapps_0.0.1_iphoneos-arm.deb
-Size: 12504
-MD5sum: 98741c86af210086e4e1710cb005f309
-SHA1: 654ebf219c0c0179838e2c3e63c4876122710a2d
-SHA256: bd72ae162c34eb6b70cdd9526e5cc3a847b0bb58c4beef83d3907673f0cb9b2c
+Size: 12514
+MD5sum: ebc53e66d5bd05b3391580c9e049dda6
+SHA1: 0d81f23b6d3121d4b0c3d9b757a3c26b4bf0fea0
+SHA256: acfd853ea3adb44a75949cf60ddbf3ed4ccd8f9e54bde94b2326e0541d2e1d8b
 Section: Tweaks
 Description: Allow access to Control Center within apps.
 Author: cole cabral
