@@ -32,3 +32,20 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/accesswithinapps/index.html
 Name: AccessWithinApps
 
+Package: com.cabralcole.dontscroll
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 164
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.dontscroll_1.0.0_iphoneos-arm.deb
+Size: 23506
+MD5sum: 33b1fa33710c9345ac79d3018a73d05e
+SHA1: af0d1c7af3889c024717c150ab3e49f06ae10c72
+SHA256: 7a60d3b1e7c651dab741be15043f34b1a6f22846da77aa462cde717f69238018
+Section: Tweaks
+Description: Don't scroll to top.
+Author: cole cabral
+Depiction: https://cydia.ccabral.us/repo/dontscroll/index.html
+Name: Don't Scroll
+
