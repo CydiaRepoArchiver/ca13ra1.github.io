@@ -49,3 +49,20 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/dontscroll/index.html
 Name: Don't Scroll
 
+Package: com.cabralcole.twitter3dshortcuts
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.cabralcole.twitter3dshortcuts_1.0.0_iphoneos-arm.deb
+Size: 3116
+MD5sum: 52621aed8622f40f157516206507098e
+SHA1: 20820dcb717b1ed564685632eb67313975b4d5e9
+SHA256: 0afa12843d313bf3d99b3994f517cade4d139b8b953ee8355cf83ab40c6fa260
+Section: Tweaks
+Description: Removes useless Twitter 3d touch items.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/twitter3dshortcuts/index.html
+Name: Twitter3DShortcuts
+
