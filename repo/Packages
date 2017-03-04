@@ -15,6 +15,23 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/nobreadcrumbs/index.html
 Name: NoBreadcrumbs
 
+Package: com.cabralcole.offlinedict
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.offlinedict_1.0.0_iphoneos-arm.deb
+Size: 2682
+MD5sum: 17c93ae3ff168d75c798b5b2b4609f8e
+SHA1: 49c5cc517c65689382d74cf28b0c27e77d171ef6
+SHA256: 1942028b5eb6c6396412e255708f77795d00f877fccf78fd6f17419bfcf9ac27
+Section: Tweaks
+Description: "Programmatically" enable offline dictation.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
+Name: OfflineDict
+
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
 Architecture: iphoneos-arm
