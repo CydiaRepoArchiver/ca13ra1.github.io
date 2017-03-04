@@ -1,53 +1,19 @@
-Package: com.cabralcole.accesswithinapps
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: cole cabral
-Installed-Size: 288
-Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 9.0)
-Filename: ./debs/com.cabralcole.accesswithinapps_0.0.1_iphoneos-arm.deb
-Size: 12514
-MD5sum: ebc53e66d5bd05b3391580c9e049dda6
-SHA1: 0d81f23b6d3121d4b0c3d9b757a3c26b4bf0fea0
-SHA256: acfd853ea3adb44a75949cf60ddbf3ed4ccd8f9e54bde94b2326e0541d2e1d8b
-Section: Tweaks
-Description: Allow access to Control Center within apps.
-Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/accesswithinapps/index.html
-Name: AccessWithinApps
-
-Package: com.cabralcole.accesswithinapps
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: cole cabral
-Installed-Size: 288
-Depends: mobilesubstrate, preferenceloader, applist, ws.hbang.common (>= 1.2), firmware (>= 9.0)
-Filename: ./debs/com.cabralcole.accesswithinapps_0.0.2_iphoneos-arm.deb
-Size: 12686
-MD5sum: 28dbac1ac34d28f795a7a5944450a2aa
-SHA1: 763ff16e29a385b2ac83c0f301737479a69a4c4f
-SHA256: f0a6b19c7ae22d75d66a4ed74f0d31ac9f086ad3f5d8f902823891c0f39f9d66
-Section: Tweaks
-Description: Allow access to control center and notification center within apps.
-Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/accesswithinapps/index.html
-Name: AccessWithinApps
-
-Package: com.cabralcole.dontscroll
+Package: com.cabralcole.nobreadcrumbs
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: cole cabral
-Installed-Size: 164
-Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
-Filename: ./debs/com.cabralcole.dontscroll_1.0.0_iphoneos-arm.deb
-Size: 23516
-MD5sum: 61e7093ca5b81f0b6ce3e7d39f804b92
-SHA1: 7b0a4f0a76332dc9610ee39c48ad4c65dd67920e
-SHA256: aea787f047d2000e5dbbb4f4ae1729bab76668aa9fdae9dfd380a12eee2ed4fb
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.nobreadcrumbs_1.0.0_iphoneos-arm.deb
+Size: 2554
+MD5sum: 958ef9329966e790e494dcb91fddc2e3
+SHA1: e423779c28766e22458d8f1be442973e4f8b5206
+SHA256: f283fdfc7c09c1af21e9315714a65181b383d85c61a96dacfbe85ebc64310060
 Section: Tweaks
-Description: Don't scroll to top.
+Description: No breadcrumbs at all.
 Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/dontscroll/index.html
-Name: Don't Scroll
+Depiction: http://ca13ra1.github.io/repo/nobreadcrumbs/index.html
+Name: NoBreadcrumbs
 
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
