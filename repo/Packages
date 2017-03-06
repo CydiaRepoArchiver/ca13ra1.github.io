@@ -15,6 +15,23 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/nobreadcrumbs/index.html
 Name: NoBreadcrumbs
 
+Package: com.cabralcole.nyancatreachability
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 232
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.nyancatreachability_1.0.0_iphoneos-arm.deb
+Size: 22844
+MD5sum: 5c34e110a6106dc6da9710640cec4f9e
+SHA1: c5fe41080cfe7ae37c91f715809631e3d481bc68
+SHA256: df6a414a8e089f64b30f3df8ad31cc0cde8679b9b219b51b55dae4f57a5a7417
+Section: Tweaks
+Description: Nyan cat for reachability.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/nyancatreachability/index.html
+Name: Nyan Cat for Reachability
+
 Package: com.cabralcole.offlinedict
 Version: 1.0.0
 Architecture: iphoneos-arm
