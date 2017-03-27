@@ -15,22 +15,22 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/nobreadcrumbs/index.html
 Name: NoBreadcrumbs
 
-Package: com.cabralcole.nyancatreachability
+Package: com.cabralcole.nolockshots
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: cole cabral
-Installed-Size: 232
+Installed-Size: 136
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/com.cabralcole.nyancatreachability_1.0.0_iphoneos-arm.deb
-Size: 22844
-MD5sum: 5c34e110a6106dc6da9710640cec4f9e
-SHA1: c5fe41080cfe7ae37c91f715809631e3d481bc68
-SHA256: df6a414a8e089f64b30f3df8ad31cc0cde8679b9b219b51b55dae4f57a5a7417
+Filename: ./debs/com.cabralcole.nolockshots_1.0.0_iphoneos-arm.deb
+Size: 2778
+MD5sum: 75d5b1477f7ee23f99ec09e29765b6c6
+SHA1: 9d29ea8339e3917c375c675f74a05f10bbc73bdd
+SHA256: cd26cd614cd38930945dcf69f87992210ae6277cfbcff0cd29fdf19eedbc5aa3
 Section: Tweaks
-Description: Nyan cat for reachability.
+Description: No screenshots on lockscreen.
 Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/nyancatreachability/index.html
-Name: Nyan Cat for Reachability
+Depiction: http://ca13ra1.github.io/repo/nolockshots/index.html
+Name: NoLockShots
 
 Package: com.cabralcole.offlinedict
 Version: 1.0.0
@@ -48,6 +48,23 @@ Description: "Programmatically" enable offline dictation.
 Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
 Name: OfflineDict
+
+Package: com.cabralcole.screenshotbanners
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, net.limneos.libbulletin, firmware (>= 10.0)
+Filename: ./debs/com.cabralcole.screenshotbanners_1.0.0_iphoneos-arm.deb
+Size: 2946
+MD5sum: bc47ae8c19478595d9ff28fce6d3c91a
+SHA1: 86b4f433e933b6fd9758d075e13734c907013a6e
+SHA256: 0878b2f43ec410952e18e728e711e233a63d7948c62f7901bff810cd9988c748
+Section: Tweaks
+Description: Replace screenshot with banners.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/screenshotbanners/index.html
+Name: ScreenshotBanners
 
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
