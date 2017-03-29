@@ -49,23 +49,6 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
 Name: OfflineDict
 
-Package: com.cabralcole.screenshotbanners
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: cole cabral
-Installed-Size: 136
-Depends: mobilesubstrate, net.limneos.libbulletin, firmware (>= 10.0)
-Filename: ./debs/com.cabralcole.screenshotbanners_1.0.0_iphoneos-arm.deb
-Size: 2946
-MD5sum: bc47ae8c19478595d9ff28fce6d3c91a
-SHA1: 86b4f433e933b6fd9758d075e13734c907013a6e
-SHA256: 0878b2f43ec410952e18e728e711e233a63d7948c62f7901bff810cd9988c748
-Section: Tweaks
-Description: Replace screenshot with banners.
-Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/screenshotbanners/index.html
-Name: ScreenshotBanners
-
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
 Architecture: iphoneos-arm
