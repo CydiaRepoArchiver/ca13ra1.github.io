@@ -49,40 +49,6 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
 Name: OfflineDict
 
-Package: com.cabralcole.tweetnowplaying
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: cole cabral
-Installed-Size: 200
-Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
-Filename: ./debs/com.cabralcole.tweetnowplaying_1.0.0_iphoneos-arm.deb
-Size: 7142
-MD5sum: bf80a77eb8816092ebabf0cbed9327de
-SHA1: 564ae9d6cfdef8f3a2382cfb7c10a1f6fa37162d
-SHA256: 30c8ec76c10fbb27f9cc3865e33299026bcf7b200a920c1d80b25af964ebc3f2
-Section: Addons (Activator)
-Description: Quickly tweet now playing.
-Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/tweetnowplaying/index.html
-Name: TweetNowPlaying
-
-Package: com.cabralcole.tweetnowplaying
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: cole cabral
-Installed-Size: 200
-Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
-Filename: ./debs/com.cabralcole.tweetnowplaying_1.0.1_iphoneos-arm.deb
-Size: 7330
-MD5sum: f48634e5bdfd4bb952fc8c1cbc6dfc01
-SHA1: 080e3f142a22f1194a1d9ab0a28fddff7c39bb34
-SHA256: d29ff2304047e31a873c1dc35f315940949635ae428ca8f5a9fc4d894e29d215
-Section: Addons (Activator)
-Description: Quickly tweet now playing.
-Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/tweetnowplaying/index.html
-Name: TweetNowPlaying
-
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
 Architecture: iphoneos-arm
