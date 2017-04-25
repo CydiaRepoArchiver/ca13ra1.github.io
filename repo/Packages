@@ -49,23 +49,22 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
 Name: OfflineDict
 
-Package: com.cabralcole.screenshotbanners
+Package: com.cabralcole.tweetnowplaying
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: cole cabral
-Installed-Size: 144
-Depends: mobilesubstrate, net.limneos.libbulletin, firmware (>= 10.0)
-Filename: ./debs/com.cabralcole.screenshotbanners_1.0.0_iphoneos-arm.deb
-Size: 9810
-MD5sum: a6298dcfbdf0de309a15605b504d38c8
-SHA1: ed4d30d4b9a376651ac335e638ee8abb8c3da654
-SHA256: e9a1e7dd4a6cb8eaef719759ca56ed389cd75e90b83f36b0f5f86fe4690d7145
-Section: Tweaks
-Description: Replace screenshot with banners.
+Installed-Size: 200
+Depends: mobilesubstrate, libactivator, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.tweetnowplaying_1.0.0_iphoneos-arm.deb
+Size: 7142
+MD5sum: bf80a77eb8816092ebabf0cbed9327de
+SHA1: 564ae9d6cfdef8f3a2382cfb7c10a1f6fa37162d
+SHA256: 30c8ec76c10fbb27f9cc3865e33299026bcf7b200a920c1d80b25af964ebc3f2
+Section: Addons (Activator)
+Description: Quickly tweet now playing.
 Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/screenshotbanners/index.html
-Icon: file:///Library/PreferenceLoader/Preferences/SB@2x.png
-Name: ScreenshotBanners
+Depiction: http://ca13ra1.github.io/repo/tweetnowplaying/index.html
+Name: TweetNowPlaying
 
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
