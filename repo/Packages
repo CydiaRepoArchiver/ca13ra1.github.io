@@ -49,6 +49,23 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
 Name: OfflineDict
 
+Package: com.cabralcole.tokesareonme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 212
+Depends: mobilesubstrate, org.thebigboss.libstatus9, firmware (>= 10.0)
+Filename: ./debs/com.cabralcole.tokesareonme_1.0.0_iphoneos-arm.deb
+Size: 7962
+MD5sum: f5d42668133df570295a81e55c9f6591
+SHA1: dc526f927adc424111a0a385ae58d7ac0d0babda
+SHA256: 3c1e24449c71510b66195c3bbf8eb2e9bcb8781ec5bf037f058b6b9df72ae564
+Section: Tweaks
+Description: Tokes are on me.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/tokesareonme/index.html
+Name: TokesAreOnMe
+
 Package: com.cabralcole.twitter3dshortcuts
 Version: 1.0.0
 Architecture: iphoneos-arm
