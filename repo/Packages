@@ -1,3 +1,20 @@
+Package: com.cabralcole.appcolorwidget
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.cabralcole.appcolorwidget_1.0.0_iphoneos-arm.deb
+Size: 4320
+MD5sum: 1e500ab432c82a748296265592066a28
+SHA1: a5fb72d5adc746de092b3ad99fc5ad78e467be57
+SHA256: b1a36afc1d4ab8630393098bebf3da5bf417b5cf1f3576b3d44632eb295f2907
+Section: Tweaks
+Description: Tint widgets based on app icon color.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/appcolorwidget/index.html
+Name: AppColorWidget
+
 Package: com.cabralcole.nobreadcrumbs
 Version: 1.0.0
 Architecture: iphoneos-arm
