@@ -15,6 +15,24 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/appcolorwidget/index.html
 Name: AppColorWidget
 
+Package: com.cabralcole.flashbar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 152
+Depends: mobilesubstrate, org.thebigboss.libstatus9, firmware (>= 9.1)
+Filename: ./debs/com.cabralcole.flashbar_0.0.1_iphoneos-arm.deb
+Size: 9402
+MD5sum: 98d26008e2664b2208c6aa20a8b00255
+SHA1: cd79bf566fd0e4d01c1838307d68c5ed0c4f232a
+SHA256: b65609fa18b87ea2942500430cb064391d30d047b9ab4020d0a6024f2270d514
+Section: Tweaks
+Description: Flashlight icon in statusbar.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/flashbar/index.html
+Icon: file:///Library/Application Support/FlashBar/FlashBar@2x.png
+Name: FlashBar
+
 Package: com.cabralcole.nobreadcrumbs
 Version: 1.0.0
 Architecture: iphoneos-arm
