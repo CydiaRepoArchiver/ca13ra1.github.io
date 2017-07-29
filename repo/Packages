@@ -84,23 +84,6 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/offlinedict/index.html
 Name: OfflineDict
 
-Package: com.cabralcole.timoji
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: cole cabral
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debs/com.cabralcole.timoji_0.1_iphoneos-arm.deb
-Size: 3182
-MD5sum: 84e490c67182c73261f0995baa5034a1
-SHA1: 0599365c5f41e93d6c8918b6a8366c672fa68f33
-SHA256: 5c20232638156da95c4d56de0d0685484bcd89439f83b2a218cbcfe33e90fd0c
-Section: Tweaks
-Description: Emoji for before noon and after noon
-Author: cole cabral
-Depiction: http://ca13ra1.github.io/repo/timoji/index.html
-Name: Timoji
-
 Package: com.cabralcole.tokesareonme
 Version: 1.0.0
 Architecture: iphoneos-arm
