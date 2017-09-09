@@ -15,6 +15,23 @@ Author: cole cabral
 Depiction: http://ca13ra1.github.io/repo/appcolorwidget/index.html
 Name: AppColorWidget
 
+Package: com.cabralcole.badgetext
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.badgetext_0.0.1_iphoneos-arm.deb
+Size: 3062
+MD5sum: 63f87b6ace8b2203da563d4bbac8e5dd
+SHA1: 4a0abec54ad7ad45de606f1f99e88f6ac5bdbd4c
+SHA256: 94d41a9e7aad4726f8a419856550120fa8a0e2d22409b3f496af70f2aae42e09
+Section: Tweaks
+Description: Badge number as text.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/badgetext/index.html
+Name: BadgeText
+
 Package: com.cabralcole.flashbar
 Version: 0.0.1
 Architecture: iphoneos-arm
